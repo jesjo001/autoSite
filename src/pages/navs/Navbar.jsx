@@ -8,7 +8,6 @@ import Button from '@mui/material/Button';
 function Navbar() {
   return (
     <Nav>
-      
       <LogoContainer>
         <span>Automation Lounge</span>
       </LogoContainer>
